@@ -7,9 +7,9 @@
 [Home base](TBD)
 
 | Session             |   Description and links      |
-|---------------------|---------------------|
-| Monday    | [Simulation Basics](Monday/README.md)           |              
+|:-------------------:|:-------------------:|
+| Monday    | [Introduction and Simulation Basics](Monday/README.md)           |              
 | Tuesday   | [System Setup](Tuesday/README.md)        |                
-| Wednesday | [Analysis](Wednesday/README.md)                    |        
-| Thursday | [Free Energy Calculations](Thursday/README.md)                |               
-| Friday    | [Enhanced sampling](Friday/README.md)     	      	    |         
+| Wednesday | [System Analysis and Free Energy Calculations](Wednesday/README.md)                    |        
+| Thursday | [Free Energy Calculations and Enhanced Sampling](Thursday/README.md)                |               
+| Friday    | [Enhanced Sampling](Friday/README.md)     	      	    |         
