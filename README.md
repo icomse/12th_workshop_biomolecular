@@ -6,6 +6,8 @@
 
 [Home base](TBD)
 
+[Code of Conduct](https://www.i-comse.org/code-conduct/) 
+
 | Session             |   Description and links      |
 |:-------------------:|:-------------------:|
 | Monday    | [Introduction and Simulation Basics](Monday/README.md)           |              
