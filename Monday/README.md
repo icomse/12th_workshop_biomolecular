@@ -1,5 +1,5 @@
 |Sesson Number | Topics  | Material |
-|--------------|---------|----------|
+|:-----------:|:-------:|:--------:|
 | Session 1     |  Introduction and logistics |    
 | Session 2     |  MD theory and basics  |    [Integrators notebook](Simplest_MD_icomse2026.ipynb)  [Thermostats notebook](thermostats_and_NVT_icomse2026.ipynb) |
 | Session 3     |  MD theory and basics   |     |
