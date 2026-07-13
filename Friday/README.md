@@ -1,1 +1,5 @@
-Put stuff about Friday's material here
+|Sesson Number | Topics  | Material |
+|:-----------:|:-------:|:--------:|
+| Session 1     |   |    
+| Session 2     |   |     |
+
