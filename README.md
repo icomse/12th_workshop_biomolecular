@@ -4,7 +4,7 @@
 
 ### Workshop material 
 
-[Home base](TBD)
+[Home base](https://docs.google.com/document/d/15noqhGQf_qed4iRyiSMNHzkxRgOROm89FzV9uKMzm34/edit?usp=sharing)
 
 [Code of Conduct](https://www.i-comse.org/code-conduct/) 
 
