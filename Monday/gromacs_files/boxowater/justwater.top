@@ -16,9 +16,9 @@ SOL             1
 
 [ atoms ]
 ;  num atom type         mol name           atom name               Charge 
-1       opls_111     1       SOL              OW             1       -0.834
-2       opls_112     1       SOL             HW1             1        0.417
-3       opls_112     1       SOL             HW2             1        0.417
+1       opls_111     1       SOL              OW             1       -1.834
+2       opls_112     1       SOL             HW1             1        0.917
+3       opls_112     1       SOL             HW2             1        0.917
 
 [ bonds ] 
 ; i     j       funct   length   force.c.
