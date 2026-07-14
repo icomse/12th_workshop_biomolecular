@@ -34,7 +34,7 @@ nstfout                  = 0
 nstlog                   = 100
 nstenergy                = 100
 ; Output frequency and precision for xtc file
-nstxout-compressed       = 200
+nstxout-compressed       = 50
 compressed-x-precision   = 1000
 ; Selection of energy groups
 energygrps               =
