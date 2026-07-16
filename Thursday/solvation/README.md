@@ -1,3 +1,10 @@
+### Prerequisites
+
+This calculation requires `conda -c conda-forge install pandas matplotlib numpy pymbar alchemlyb`
+
+
+### Calculations
+
 There are 12 intermediate states defined to perform the
 calculation of the solvation of ethanol.  You will need to run 12
 different simulations.  The will use the SAME .gro file, the SAME
